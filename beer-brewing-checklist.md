@@ -32,6 +32,7 @@
 - [ ] tuyau transparent
 - [ ] seau et robinet et couvercle x2
 - [ ] refroidisseur
+- [ ] thermometre
 
 ### Marmite:
 - [ ] marmite
