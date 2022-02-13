@@ -22,6 +22,7 @@
 - [ ] louche
 - [ ] tuyau jaune x2
 - [ ] adaptateur arrivé d'eau robinet
+- [ ] ciseaux
 
 ### matos à désinfecter
 - [ ] éponge
