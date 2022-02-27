@@ -53,6 +53,7 @@
 - [ ] mini-balance
 - [ ] chimiopro
 - [ ] bouilloir ou casserole
+- [ ] encapsuleur
 
 ### matos à désinfecter
 - [ ] seau et robinet
