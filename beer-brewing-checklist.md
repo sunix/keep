@@ -61,6 +61,7 @@
 - [ ] lave bouteille
 - [ ] capsule
 - [ ] arbre seche bouteille
+- [ ] tige
 - [ ] tuyau transparent
 - [ ] éponge
 - [ ] spatule
