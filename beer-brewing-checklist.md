@@ -56,6 +56,7 @@
 - [ ] encapsuleur
 
 ### matos à désinfecter
+- [ ] passoire
 - [ ] seau et robinet
 - [ ] bouteilles
 - [ ] lave bouteille
