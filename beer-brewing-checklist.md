@@ -43,3 +43,27 @@
 - [ ] "panier" metalique
 - [ ] tuyau evacuation
 - [ ] couvercle
+
+## Enbouteillage
+
+### Ingrédients
+- [ ] sucre
+
+### Matos/produits
+- [ ] mini-balance
+- [ ] chimiopro
+- [ ] bouilloir ou casserole
+
+### matos à désinfecter
+- [ ] seau et robinet
+- [ ] bouteilles
+- [ ] lave bouteille
+- [ ] capsule
+- [ ] arbre seche bouteille
+- [ ] tuyau transparent
+- [ ] éponge
+- [ ] spatule
+- [ ] verre 50cl x2
+- [ ] bol metalique
+
+
