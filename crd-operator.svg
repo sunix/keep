@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="261.13254mm"
+   height="148.02319mm"
+   viewBox="0 0 261.13255 148.02319"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="crd-operator.svg"
+   inkscape:export-filename="/home/sunix/Pictures/crd-operator.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata98725">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.75432699"
+     inkscape:cx="478.5424"
+     inkscape:cy="432.32188"
+     inkscape:window-width="1740"
+     inkscape:window-height="1020"
+     inkscape:window-x="2100"
+     inkscape:window-y="167"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     lock-margins="true" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker104043"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path104041" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path103171" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path103186" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path103168" />
+    </marker>
+    <symbol
+       id="user">
+      <title
+         id="title2510">user</title>
+      <path
+         d="m 2.1166667,1.8520833 c 0.2921,0 0.5291666,-0.2370666 0.5291666,-0.5291666 0,-0.2921 -0.2370666,-0.5291667 -0.5291666,-0.5291667 -0.2921,0 -0.5291667,0.2370667 -0.5291667,0.5291667 0,0.2921 0.2370667,0.5291666 0.5291667,0.5291666 z M 2.38125,2.1166667 H 1.8520833 c -0.43815,0 -0.79375,0.3553354 -0.79375,0.79375 V 3.4395833 H 3.175 V 2.9104167 c 0,-0.4384146 -0.3556,-0.79375 -0.79375,-0.79375 z"
+         id="path2512"
+         style="stroke-width:0.264583" />
+    </symbol>
+    <symbol
+       id="database">
+      <title
+         id="database-title">Database</title>
+      <path
+         d="M 118.53333,19.352419 V 31.447581 C 118.53333,42.106585 91.986894,50.8 59.266667,50.8 26.54644,50.8 0,42.106585 0,31.447581 V 19.352419 C 0,8.6934146 26.54644,0 59.266667,0 91.986894,0 118.53333,8.6934146 118.53333,19.352419 Z m 0,27.214248 v 27.214248 c 0,10.659004 -26.546436,19.352418 -59.266663,19.352418 C 26.54644,93.133333 0,84.439919 0,73.780915 V 46.566667 c 12.733073,8.769085 36.038367,12.851341 59.266667,12.851341 23.2283,0 46.533333,-4.082256 59.266663,-12.851341 z m 0,42.333333 v 27.21425 c 0,10.659 -26.546436,19.35242 -59.266663,19.35242 C 26.54644,135.46667 0,126.77325 0,116.11425 V 88.9 c 12.733073,8.769085 36.038367,12.85134 59.266667,12.85134 23.2283,0 46.533333,-4.082255 59.266663,-12.85134 z"
+         id="path68433"
+         style="stroke-width:0.264583" />
+    </symbol>
+    <symbol
+       id="icon-cube">
+      <title
+         id="title81183">cube</title>
+      <path
+         d="m 7.7274208,2.7794479 c -0.029898,0 -0.058208,0.00556 -0.083873,0.015875 L 7.6057125,2.8143729 4.7058792,4.318 c 0,0 -7.938e-4,2.646e-4 -7.938e-4,7.937e-4 -0.1251479,0.077258 -0.2071687,0.2069042 -0.2071687,0.3542771 v 3.0734 c 0,0.1055688 0.093398,0.1907646 0.2098145,0.1907646 0.035983,0 0.070379,-0.00847 0.1002771,-0.023283 0.00265,-0.00159 0.00609,-0.00318 0.00847,-0.00476 L 7.7102229,6.3740771 C 7.8464833,6.2994646 7.9372354,6.1634687 7.9372354,6.0084229 V 2.9691542 c 0,-0.1050396 -0.094192,-0.1902355 -0.2100792,-0.1902355 z"
+         id="path81185"
+         style="stroke-width:0.264583" />
+      <path
+         d="M 7.51205,1.9600333 4.5074417,0.60854167 c 0,0 -0.1762125,-0.0791104 -0.2741084,-0.0791104 -0.097896,0 -0.2733146,0.0791104 -0.2733146,0.0791104 L 0.95276458,1.9600333 c 0,0 -0.13202708,0.054504 -0.13202708,0.1566334 0,0.1084791 0.13731875,0.1902354 0.13731875,0.1902354 L 4.0253708,3.9250937 c 0.062442,0.027781 0.1336146,0.043921 0.2082271,0.043921 0.075406,0 0.1473729,-0.015875 0.2106083,-0.04445 L 4.486275,3.9028687 7.5107271,2.3063729 c 0,0 0.1240896,-0.066675 0.1240896,-0.1894417 0,-0.1074208 -0.1225021,-0.1566333 -0.1225021,-0.1566333 z"
+         id="path81187"
+         style="stroke-width:0.264583" />
+      <path
+         d="M 3.7615812,4.3190583 3.6957,4.2851917 0.82311875,2.7955875 c -0.0246063,-0.010583 -0.053975,-0.015875 -0.0838729,-0.015875 -0.11562291,0 -0.20981458,0.084931 -0.20981458,0.1902354 v 3.0392688 c 0,0.1553104 0.0907521,0.2910416 0.2270125,0.3656541 l 0.00344,0.00238 2.88951453,1.5327312 c 0.03175,0.017727 0.069321,0.027781 0.1098021,0.027781 0.1156229,0 0.2098146,-0.08546 0.2098146,-0.1907646 V 4.6736 c 0,-0.1473729 -0.082285,-0.2770187 -0.2071688,-0.3542771 z"
+         id="path81189"
+         style="stroke-width:0.264583" />
+    </symbol>
+    <symbol
+       id="icon-ios-cloudy">
+      <title
+         id="title80372">ios-cloudy</title>
+      <path
+         d="m 4.0348958,2.6458333 c -0.7112,0 -1.2948708,0.5820834 -1.2948708,1.2980459 0,0.042863 0.00159,0.085989 0.00661,0.1291166 -0.4365625,0.0381 -0.7789334,0.4217459 -0.7789334,0.86995 0,0.473075 0.3836459,0.8781521 0.8548688,0.8781521 h 2.6077333 c 0.5902854,0 1.0683875,-0.4945062 1.0683875,-1.0863792 0,-0.5918729 -0.4778375,-1.0797645 -1.0683875,-1.0797645 -0.044715,0 -0.089165,0 -0.1322916,0.00503 C 5.1673125,3.0810729 4.6466125,2.6463625 4.0346312,2.6463625 v 0 z"
+         id="path80374"
+         style="stroke-width:0.264583" />
+    </symbol>
+    <symbol
+       id="icon-ios-cloud-outline">
+      <title
+         id="title80415">ios-cloud-outline</title>
+      <path
+         d="m 6.6029417,3.8496875 c 0,-0.019844 0.00318,-0.039687 0.00318,-0.059531 0,-1.0633604 -0.873125,-1.9380729 -1.9314584,-1.9380729 -0.7622646,0 -1.4189604,0.4614334 -1.7264062,1.1078104 C 2.8143729,2.8921604 2.6654125,2.8540604 2.505075,2.8540604 c -0.4894792,0 -0.8945563,0.3918479 -0.9739313,0.8598958 C 0.94906042,3.9155687 0.52890208,4.445 0.52890208,5.0995792 c 0,0.8236479 0.66304582,1.5147395 1.48166662,1.5147395 h 4.5706771 c 0.7442729,0 1.3559896,-0.643202 1.3559896,-1.3940895 0,-0.7540625 -0.5852583,-1.3692188 -1.3345583,-1.3708063 z M 6.5733083,6.3433854 6.5203917,6.35 H 2.0240625 C 1.3477875,6.35 0.796925,5.7729437 0.796925,5.0916417 c 0,-0.5275792 0.3341688,-0.9657292 0.8302625,-1.1377084 l 0.1389063,-0.049742 0.024871,-0.1455209 c 0.059531,-0.3571875 0.3653896,-0.6498166 0.7260167,-0.6498166 0.1140354,0 0.2264833,0.026458 0.3291416,0.079375 L 3.0694313,3.3006771 3.1768521,3.0741937 C 3.451225,2.4971375 4.0383354,2.1116396 4.6717479,2.1116396 c 0.9144,0 1.6684625,0.7291916 1.6684625,1.6486187 0,0.2198688 -0.00317,0.3357563 -0.00317,0.3357563 l 0.2513542,0.00159 c 0.6069541,0.0082 1.0847916,0.5042958 1.0847916,1.1146896 0,0.6103937 -0.4929187,1.1276541 -1.0996083,1.1310937 z"
+         id="path80417"
+         style="stroke-width:0.264583" />
+    </symbol>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path103171-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path103171-7-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-7-73"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path103171-7-6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.445584,-30.22842)">
+    <rect
+       style="fill:#fff1e0;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.717254;stroke-miterlimit:4;stroke-dasharray:0.717254, 0.717254;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect102331"
+       width="203.75531"
+       height="65.877106"
+       x="33.804211"
+       y="96.095695" />
+    <g
+       id="g71889"
+       transform="translate(8.0386981,9.9216465)">
+      <rect
+         style="fill:#ffcba6;stroke:#000000;stroke-width:0.886593;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:2.2;paint-order:markers stroke fill"
+         id="rect887"
+         width="47.625"
+         height="43.656261"
+         x="31.75"
+         y="89.958336" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+         x="35.26297"
+         y="97.92453"
+         id="text6919"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+           x="35.26297"
+           y="97.92453"
+           id="tspan36697">Custom Resource</tspan></text>
+      <rect
+         style="fill:#aad400;stroke:#000000;stroke-width:1.11986;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:2.2;paint-order:markers stroke fill"
+         id="rect43871"
+         width="46.30209"
+         height="11.90625"
+         x="38.364582"
+         y="103.1875" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+         x="40.456703"
+         y="109.97392"
+         id="text6919-4"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+           x="40.456703"
+           y="109.97392"
+           id="tspan36697-2"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Bold'"
+   id="tspan40737-0">spec:</tspan> Desired state</tspan></text>
+      <rect
+         style="fill:#aad400;stroke:#000000;stroke-width:1.11986;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:2.2;paint-order:markers stroke fill"
+         id="rect43871-6"
+         width="46.30209"
+         height="11.90625"
+         x="38.364578"
+         y="117.73959" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+         x="40.456699"
+         y="124.52601"
+         id="text6919-4-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+           x="40.456699"
+           y="124.52601"
+           id="tspan36697-2-9"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Bold'"
+             id="tspan59025">status</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:#80b3ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.2;paint-order:markers stroke fill"
+       id="path1033"
+       sodipodi:type="arc"
+       sodipodi:cx="139.02553"
+       sodipodi:cy="126.25631"
+       sodipodi:rx="22.012915"
+       sodipodi:ry="15.987296"
+       sodipodi:start="5.8704848"
+       sodipodi:end="5.8697069"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 159.19026,119.84405 a 22.012915,15.987296 0 0 1 -11.33177,21.05603 22.012915,15.987296 0 0 1 -28.99426,-8.22582 22.012915,15.987296 0 0 1 11.32049,-21.05923 22.012915,15.987296 0 0 1 28.99867,8.21763" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+       x="119.23245"
+       y="126.83241"
+       id="text6919-6-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+         x="119.23245"
+         y="126.83241"
+         id="tspan1818">Custom Controller</tspan></text>
+    <use
+       xlink:href="#user"
+       style="fill:#000000;stroke:none"
+       id="use98896"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(10.187798,0,0,10.187798,38.898177,38.755524)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+       x="55.261021"
+       y="79.448555"
+       id="text98912"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+         x="55.261021"
+         y="79.448555"
+         id="tspan98910">User</tspan></text>
+    <use
+       xlink:href="#database"
+       style="fill:#000000;stroke:none"
+       id="use99175"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.11889218,0,0,0.11133045,215.57583,126.13549)" />
+    <use
+       xlink:href="#icon-cube"
+       style="fill:#000000;stroke:none"
+       id="use99250"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(2.1907668,0,0,2.1907668,195.03712,117.31785)" />
+    <use
+       xlink:href="#icon-cube"
+       style="fill:#000000;stroke:none"
+       id="use99250-3"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(2.1907668,0,0,2.1907668,212.01868,103.40867)" />
+    <use
+       xlink:href="#icon-ios-cloud-outline"
+       style="fill:#000000;stroke:none"
+       id="use102317"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(5.1302027,0,0,5.4800484,233.85851,58.862519)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect103156"
+       width="43.117588"
+       height="38.724209"
+       x="39.697281"
+       y="40.22842" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.55;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 59.862693,82.067208 -0.30276,17.690129"
+       id="path103166" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.55;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-7)"
+       d="M 95.002245,121.63161 112.69428,121.4765"
+       id="path103166-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.55;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-7-7)"
+       d="M 114.04574,131.38467 96.353713,131.22956"
+       id="path103166-1-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.55;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-7-73)"
+       d="m 169.04902,125.73985 17.69203,-0.15511"
+       id="path103166-1-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+       x="61.98534"
+       y="86.206047"
+       id="text6919-6-6-4"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Italic';stroke-width:0.264583"
+         x="61.98534"
+         y="86.206047"
+         id="tspan36697-4-3-8">creates or </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Italic';stroke-width:0.264583"
+         x="61.98534"
+         y="91.056747"
+         id="tspan104613">modifies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+       x="106.47321"
+       y="111.52482"
+       id="text6919-6-6-4-1"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Italic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="106.47321"
+         y="111.52482"
+         id="tspan104643">gets notified</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Italic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="106.47321"
+         y="116.37552"
+         id="tspan103999">spec changes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+       x="106.03819"
+       y="138.0932"
+       id="text6919-6-6-4-1-9"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Italic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="106.03819"
+         y="138.0932"
+         id="tspan103999-9">updates</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Italic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="106.03819"
+         y="142.94389"
+         id="tspan104031">status</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker104043)"
+       d="m 157.45786,114.78173 0.33861,-32.137002 75.28741,1.00215"
+       id="path104033" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+       x="179.82951"
+       y="75.952133"
+       id="text6919-6-6-4-1-0-5"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Italic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="179.82951"
+         y="75.952133"
+         id="tspan103999-8-9">performs actions</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Italic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="179.82951"
+         y="80.802834"
+         id="tspan104641">to match the desired state</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+       x="192.64693"
+       y="149.02759"
+       id="text6919-6-63"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+         x="192.64693"
+         y="149.02759"
+         id="tspan104573">Resources, pods, etc.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+       x="241.19963"
+       y="101.3718"
+       id="text6919-6-63-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+         x="241.19963"
+         y="101.3718"
+         id="tspan104573-6">External world</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+       x="113.10279"
+       y="168.21034"
+       id="text6919-6-63-5-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+         x="113.10279"
+         y="168.21034"
+         id="tspan104573-6-1">Kubernetes cluster</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';stroke-width:0.264583"
+       x="179.40239"
+       y="132.60941"
+       id="text6919-6-6-4-1-0-5-5"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Italic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="179.40239"
+         y="132.60941"
+         id="tspan103999-8-9-9">performs actions</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Italic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="179.40239"
+         y="137.4601"
+         id="tspan104641-8">to match the desired state</tspan></text>
+  </g>
+</svg>
